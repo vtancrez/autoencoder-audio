@@ -1,6 +1,6 @@
 # autoencoder-audio
 
-This project has been made in my internship in qarma LIS (laboritory in AI) the goal is to study how autoencoder learn audio in different languages. My tutor was Thomas Schatz.
+This project has been made during my internship in qarma LIS (laboritory in AI) the goal is to study how autoencoder learn audio in different languages. My tutor was Thomas Schatz.
 
 
 Informations to use this project.
